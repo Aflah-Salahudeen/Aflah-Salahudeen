@@ -53,6 +53,7 @@ I'm **[`Aflah Salahudeen `], I am a B.Tech CSE student passionate about Python p
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[FixITNow](https://github.com/Aflah-Salahudeen/FixITNow)**    | FixITNow is a mobile-based application that helps students and staff report campus infrastructure issues quickly and efficiently. It improves communication and enables faster resolution of maintenance problems within the campus.
+ |
 
 ---
