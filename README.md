@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **[`Aflah Salahudeen `], I am a B.Tech CSE student passionate about Python programming, web development, and technology. I enjoy learning new coding skills, building creative projects, and exploring the world of software development. My goal is to improve my technical knowledge, create impactful projects, and grow as a future software engineer.
+I'm [`Aflah Salahudeen `], I am a B.Tech CSE student passionate about Python programming, web development, and technology. I enjoy learning new coding skills, building creative projects, and exploring the world of software development. My goal is to improve my technical knowledge, create impactful projects, and grow as a future software engineer.
 
 <a href="https://linkedin.com/aflah-salahudeen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
